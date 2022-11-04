@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.name{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* display: flex; */
+    height: 50px;
+    width: 100%;
+}
+
+.name ul {
+    display: flex;
+    margin: 2rem;
+}
+li{
+    display: flex;
+    margin: 2rem;
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    
+}
